@@ -1,1 +1,2 @@
-export const API = "https://quiz-app-1-sfhr.onrender.com/api";
+export const API = process.env.REACT_APP_API;
+
